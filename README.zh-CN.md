@@ -1,7 +1,18 @@
 # ✋ Hand Controlled 3D Particles
 
 <p align="center">
-  <strong>简体中文</strong> | <a href="./README.md">English</a>
+  <strong>简体中文</strong> |
+  <a href="./README.md">English</a> |
+  <a href="./README_ko.md">한국어</a> |
+  <a href="./README_fr.md">Français</a> |
+  <a href="./README_de.md">Deutsch</a> |
+  <a href="./README_ja.md">日本語</a> |
+  <a href="./README_ru.md">Русский</a> |
+  <a href="./README_es.md">Español</a> |
+  <a href="./README_pt.md">Português</a> |
+  <a href="./README_it.md">Italiano</a> |
+  <a href="./README_vi.md">Tiếng Việt</a> |
+  <a href="./README_ar.md">العربية</a>
 </p>
 
 <p align="center">
@@ -168,4 +179,3 @@ const OPEN_THRESHOLD = 0.16   // 张开判定阈值
 <p align="center">
   Made with ❤️ by <a href="https://github.com/wangmiaozero">wangmiaozero</a>
 </p>
-
